@@ -8,6 +8,6 @@ public class CamFollow : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = target.position;// Зіставляє положення камери з положенням Camposition.
+        transform.position = target.position;// Зіставте положення камери з положенням Camposition.
     }
 }
